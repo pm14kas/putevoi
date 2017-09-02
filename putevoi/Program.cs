@@ -9,7 +9,7 @@ namespace putevoi
     static class Program
     {
         /// <summary>
-        /// The main entry point for the application.
+        /// The main entry polong for the application.
         /// </summary>
         [STAThread]
         static void Main()
